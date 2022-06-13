@@ -1,0 +1,10 @@
+a=45.788965;
+print(int(a));
+b=89;
+print(float(b));
+c=56;
+d=str(c);
+print(type(d));
+e=len('Hello world!');
+print(e);
+print(d);
